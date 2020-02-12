@@ -6,8 +6,8 @@ schemadotorg:
   "@type": CreativeWork
   "genre": TrainingMaterial
   isPartOf:
-      url: "https://gtpb.github.io/Web_course_template/"
-      name: "COURSE_SHORT - COURSE_EXTENDED_NAME"
+      url: "https://gtpb.github.io/3DAROC20/"
+      name: "3DAROC20 - 3C-based data analysis and 3D reconstruction of chromatin folding"
 ---
 
 Page Contents with markdown.
