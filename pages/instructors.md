@@ -28,9 +28,9 @@ Between 2012 and 2018, Marc was an Associate Editor of the PLoS Computational Bi
 
 ### Marco Di Stefano
 
-<img src="./images/instructors/Marco_di_Stefano.jpeg" height="220px" width="170px" align="left" style="margin-right: 3%; margin-bottom: 0.3em;">
+<img src="./images/instructors/Marco_di_Stefano.jpg" height="220px" width="170px" align="left" style="margin-right: 3%; margin-bottom: 0.3em;">
 
-**Marco Di Stefano** obtained his Ph.D. in Biophysics in 2014 working on Physics-based structural models of chromosomes to study the relationship between gene co-expression and gene co-localization. He moved as a post-doctoral researcher to the structural genomics group of Marc Marti-Renom at CNAG-CRG (Barcelona). His main research interest is in integrating chromosome conformation capture data, epigenomics, and polymer Physics to study constitutive mechanisms of chromosome folding. He has been involved in GTPB as an instructor for 3DAROC16 - 3C-based data analysis and 3D reconstruction of chromatin folding.
+**Marco di Stefano** obtained his Ph.D. in Biophysics in 2014 working on Physics-based structural models of chromosomes to study the relationship between gene co-expression and gene co-localization. He moved as a post-doctoral researcher to the structural genomics group of Marc Marti-Renom at CNAG-CRG (Barcelona). His main research interest is in integrating chromosome conformation capture data, epigenomics, and polymer Physics to study constitutive mechanisms of chromosome folding. He has been involved in GTPB as an instructor for 3DAROC16 - 3C-based data analysis and 3D reconstruction of chromatin folding.
 
 <br>
 
