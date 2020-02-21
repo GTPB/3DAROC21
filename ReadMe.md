@@ -15,10 +15,9 @@
 
 <!---
 
-## COURSE_SHORT - COURSE_EXTENDED_NAME
+## 3DAROC20 - 3C-based data analysis and 3D reconstruction of chromatin folding
 
-###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - MONTH DAY<sup>th</sup> - MONTH DAY<sup>th</sup> YEAR
-Go to the [course oficial website](http://gtpb.igc.gulbenkian.pt/bicourses/YEAR/COURSE_SHORT/)
+###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - April 20<sup>th</sup> - April 23<sup>rd</sup> 2020
 
 ---
 
@@ -26,11 +25,12 @@ Go to the [course oficial website](http://gtpb.igc.gulbenkian.pt/bicourses/YEAR/
 
 The following co-authors contributed to the development of the training material.
 
-* [CO-AUTHOR_1](https://github.com/CO-AUTHOR_1)
-* [CO-AUTHOR_2](https://github.com/CO-AUTHOR_2)
+* Marc A. Martí-Renom
+* [François Serra](https://github.com/fransua)
+* [David Castillo](https://github.com/david-castillo)
 
 #### Course Webpage
-This is the link to the [course webpage](http://gtpb.igc.gulbenkian.pt/bicourses/2020/3DAROC20), for further information about the course.
+This is the link to the [course webpage](http://gtpb.igc.gulbenkian.pt/bicourses/2020/3DAROC20/), for further information about the course.
 
 --->
 
