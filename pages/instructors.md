@@ -32,7 +32,7 @@ Between 2012 and 2018, Marc was an Associate Editor of the PLoS Computational Bi
 
 **Marco di Stefano** obtained his Ph.D. in Biophysics in 2014 working on Physics-based structural models of chromosomes to study the relationship between gene co-expression and gene co-localization. He moved as a post-doctoral researcher to the structural genomics group of Marc Marti-Renom at CNAG-CRG (Barcelona). His main research interest is in integrating chromosome conformation capture data, epigenomics, and polymer Physics to study constitutive mechanisms of chromosome folding. He has been involved in GTPB as an instructor for 3DAROC16 - 3C-based data analysis and 3D reconstruction of chromatin folding.
 
-<br>
+<br><br><br>
 
 **Affiliation:** Centro Nacional de Análisis Genómico (CNAG) and Center for Genomic Regulation (CRG), Barcelona, ES
 
@@ -46,7 +46,7 @@ Between 2012 and 2018, Marc was an Associate Editor of the PLoS Computational Bi
 
 **David Castillo**  obtained his MSc in Photonics from the Universitat Politècnica de Catalunya in Barcelona (Spain) where he worked in Super-resolution microscopy. He has a background in Physics and Engineering. He works as a technician in the Structural Genomics team of Marc A. Martí-Renom at CNAG-CRG (Barcelona), developing tools for the analysis, modelling and visualization of Hi-C data. David is also interested in the integration of microscopy into the modeling of genomic 3D structures.He has been involved in GTPB as an instructor for 3DAROC18 - 3C-based data analysis and 3D reconstruction of chromatin folding.
 
-<br>
+<br><br><br>
 
  **Affiliation:** Centro Nacional de Análisis Genómico (CNAG) and Center for Genomic Regulation (CRG), Barcelona, ES
 
