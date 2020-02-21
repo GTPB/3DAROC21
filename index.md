@@ -32,7 +32,7 @@ schemadotorg:
     - "@type": Person
       name: "Marc A. Martí-Renom"
     - "@type": Person
-      name: "François Serra"
+      name: "Marco Di Stefano"
     - "@type": Person
       name: "David Castillo"
 

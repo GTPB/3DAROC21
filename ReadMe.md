@@ -26,7 +26,7 @@
 The following co-authors contributed to the development of the training material.
 
 * Marc A. Martí-Renom
-* [François Serra](https://github.com/fransua)
+* [Marco Di Stefano](https://github.com/MarcoDiS)
 * [David Castillo](https://github.com/david-castillo)
 
 #### Course Webpage

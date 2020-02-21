@@ -32,16 +32,21 @@ Over the last years, Marc played a key role in Europe to promote the 4DNucleome 
 
 ---
 
-## François Serra
+### Marco Di Stefano
 **Affiliation:** Centro Nacional de Análisis Genómico (CNAG) and Center for Genomic Regulation (CRG), Barcelona, ES
 
-<img src="./images/instructors/Francois_Serra.jpg" height="220px" width="170px" align="left" style="margin-right: 3%; margin-bottom: 0.3em;">
+<img src="./images/instructors/Marco_Stefano.jpeg" height="220px" width="170px" align="left" style="margin-right: 3%; margin-bottom: 0.3em;">
 
-**François Serra** obtained his Degree in Biology, specialized in Physiology and Neurophysiology, his Master's Degree in Structural genomics and bioinformatics (Strasbourg I University, France) and it's PhD in Evolutionary Genomics in the Department of Bioinformatics at the CIPF (Valencia). He is now part of the Structural Genomic team of Marc Marti-Renom at CNAG and at CRG (Barcelona).
+Biography
 
-His main research interests are grounded on comparative genomics and evolution with a special focus on the effect of evolution in the structural arrangement of genomes. He has taught MEPA and 3DMOG for GTPB, and also in similar courses at CIPF (Valencia, ES) and the Department of Genetics of the University of Cambridge (UK).
-
-<br/>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ---
 
