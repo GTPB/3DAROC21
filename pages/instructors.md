@@ -29,16 +29,16 @@ Marc collaborates in GTPB as an instructor since 2008. PGDD08 - Pharmacogenomics
 ---
 
 ## Marco di Stefano
-**Affiliation:** Centro Nacional de Análisis Genómico (CNAG) and Center for Genomic Regulation (CRG), Barcelona, ES
+**Affiliation:** Institute of Human Genetics (IGH), Centre National de la Recherche Scientifique (CNRS), University of Montpellier, Montpellier, FR.
 [ORCID ID](https://orcid.org/0000-0001-6195-4754)
 
 <img src="./images/instructors/Marco_di_Stefano.jpg" height="220px" width="170px" align="left" style="margin-right: 3%; margin-bottom: 0.3em;">
 
-**Marco di Stefano** obtained his Ph.D. in Biophysics in 2014 (Scuola Internazionale Superiore di Studi Avanzati: Trieste, Friuli-Venezia Giulia, IT) working on Physics-based structural models of chromosomes to study the relationship between gene co-expression and gene co-localization.
+**Marco di Stefano** obtained his PhD in Biophysics in 2014 from the Scuola Internazionale Superiore di Studi Avanzati (SISSA) working on Physics-based structural models of chromosomes to study the relationship between gene co-expression, gene co-localization, and chromosome entanglement. 
 
-He moved as a post-doctoral researcher to the structural genomics group of Marc Marti-Renom at CNAG-CRG (Barcelona). His main research interest is in integrating chromosome conformation capture data, epigenomics, and polymer Physics to study constitutive mechanisms of chromosome folding.
+He moved as a post-doctoral researcher to the structural genomics group of Marc Marti-Renom at CNAG-CRG (Barcelona, ES). His main research interest was the integration of chromosome conformation capture data, epigenomics, and polymer Physics to study constitutive mechanisms of chromosome folding. 
 
-He has been involved in GTPB as an instructor for 3DAROC16 - 3C-based data analysis and 3D reconstruction of chromatin folding.
+In October 2020 he moved to the Institute of Human Genetics (Montpellier, FR) as a senior post-doc in the Chromatin and Cell Biology group led by Giacomo Cavalli. He is extending his studies on the relationship between epigenetics, gene expression, and genome structural organization and dynamics. He has been involved in GTPB as an instructor for 3DAROC16 - 3C-based data analysis and 3D reconstruction of chromatin folding.
 
 <br/>
 
