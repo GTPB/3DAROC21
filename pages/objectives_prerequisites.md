@@ -53,7 +53,7 @@ Most of the tasks of the "core pipeline" can be tunned directly from command lin
 ## Virtual research environment
 
 
-<img align="right" src="https://www.irbbarcelona.org/sites/default/files/news/2017/07/mug2.jpg?raw=True" width="160">
+<img align="right" src="./images/MUG_logo.jpg" width="160">
 
 With small datasets TADbit core pipeline can be runned through a new Virtual Research Environment ([VRE](https://vre.multiscalegenomics.eu/workspace/)), hosted by the [MuG project](https://www.multiscalegenomics.eu/).
 
