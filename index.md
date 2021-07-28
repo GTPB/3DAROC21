@@ -8,7 +8,7 @@ schemadotorg:
   # Course details
        # "name" -> The name of the course
        # "description" -> Short description of the course
-  name: "3DAROC20 - 3C-based data analysis and 3D reconstruction of chromatin folding"
+  name: "3DAROC21 - 3C-based data analysis and 3D reconstruction of chromatin folding"
   description: "Training Material focused in 3C-Data Analysis and 3D Chromatin Folding."
 
   # Keywords -> Consult EDAM:Topic
@@ -39,7 +39,7 @@ schemadotorg:
   # License & Language & url
   license: https://creativecommons.org/licenses/by/4.0/
   inLanguage: "en-us"
-  url: "https://gtpb.github.io/3DAROC20/"
+  url: "https://gtpb.github.io/3DAROC21/"
 ---
 
 ![](./assets/material/Entry_Image.jpg)
