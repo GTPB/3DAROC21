@@ -1,23 +1,7 @@
-## GTPB Course Pages
+## 3DAROC21 - 3C-based data analysis and 3D reconstruction of chromatin folding
 
-### Usage Instructions
-
-1. Create contents using .md files in the pages folder. Use normal markdown format for your page contents.
-2. The index.md page is the homepage for the website. Customise it as you would create a README.md file.
-3. If using pdf or images upload them to the assets folder.
-4. DO NOT erase or mess with any of the other folders and/or files without consulting with the organisation, as they are necessary for the website structure, layout and integrity.
-
-### Deployment instructions
-
-1. Edit the config.yml file to change the course name and url link.
-2. When ready, copy the contents in the master branch to the gh-pages branch.
-3. Make sure everything works properly and do your final corrections.
-
-<!---
-
-## 3DAROC20 - 3C-based data analysis and 3D reconstruction of chromatin folding
-
-###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - April 20<sup>th</sup> - April 23<sup>rd</sup> 2020
+###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - October 4<sup>th</sup> - October 6<sup>th</sup> 2021
+Go to the [course oficial website](http://gtpb.igc.gulbenkian.pt/bicourses/2021/3DAROC21/)
 
 ---
 
@@ -25,14 +9,12 @@
 
 The following co-authors contributed to the development of the training material.
 
-* Marc A. Martí-Renom
+* [Marc A. Marti-Renom](http://marciuslab.org)
 * [Marco Di Stefano](https://github.com/MarcoDiS)
 * [David Castillo](https://github.com/david-castillo)
 
 #### Course Webpage
-This is the link to the [course webpage](http://gtpb.igc.gulbenkian.pt/bicourses/2020/3DAROC20/), for further information about the course.
-
---->
+This is the link to the [course webpage](http://gtpb.igc.gulbenkian.pt/bicourses/2021/3DAROC21/), for further information about the course.
 
 #### Code of Conduct
 Please read the [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for details on contributing and reusing the training material.
@@ -46,6 +28,10 @@ This project is licensed under CC-BY 4.0 - see the [License.md](License.md) for 
 
 <a href="http://www.igc.gulbenkian.pt/"><img src="./assets/readme_img/Logo_IGC_2014.png" alt="Instituto Gulbenkian de Ciência" width="250px"></a>
 
+#### Co-organizer
+
+<a href="https://inc-cost.eu"><img src="./assets/readme_img/cost-inc.png" alt="International Nucleome Consortium COST-INC" width="250px"></a>
+
 #### Contributors
 
 <a href="https://biodata.pt/"><img src="./assets/readme_img/BIoData_and_co-financiadores.png" alt="Instituto Gulbenkian de Ciência" width="500px"></a>
@@ -56,4 +42,4 @@ This project is licensed under CC-BY 4.0 - see the [License.md](License.md) for 
 
 <br/>
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">3DAROC20</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">GTPB</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">PSLS20</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">GTPB</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
