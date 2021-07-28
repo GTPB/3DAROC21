@@ -30,7 +30,7 @@ This project is licensed under CC-BY 4.0 - see the [License.md](License.md) for 
 
 #### Co-organizer
 
-<a href="https://inc-cost.eu"><img src="./assets/readme_img/cost-inc.png" alt="International Nucleome Consortium COST-INC" width="250px"></a>
+<a href="https://inc-cost.eu"><img src="./assets/readme_img/inc-logo-grey-rgb.png" alt="International Nucleome Consortium COST-INC" width="250px"></a>
 
 #### Contributors
 
