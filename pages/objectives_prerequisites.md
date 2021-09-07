@@ -32,29 +32,6 @@ All hands-on will be given at command-line tool (experienced users will be given
 
 <br/>
 
-## TADbit API
-
-This tutorial is associated with a __specific version of TADbit__, if you wish to reproduce exactly the results in the notebooks you should use the version of TADbit tagged `3DAROC_2021`.
-
-To install this version do:
-
-    git clone https://github.com/3DGenomes/TADbit
-    cd tadbit
-    git checkout tags/3DAROC_2021
-    sudo python setup.py install
-
-<br/>
-
-## Virtual research environment
-
-<img align="right" src="./images/MUG_logo.jpg" width="160">
-
-With small datasets TADbit core pipeline can be runned through a new Virtual Research Environment ([VRE](https://vre.multiscalegenomics.eu/workspace/)), hosted by the [MuG project](https://www.multiscalegenomics.eu/).
-
-This might also be the best place to try TADkit for visualizing genomes in 3D together with interactions matrices and any other genomic track.
-
-<br/>
-
 ### Back
 
 Back to [main page](../index.md).
