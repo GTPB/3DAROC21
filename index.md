@@ -73,55 +73,35 @@ All the datasets used for this training course is available throughout the docum
       <th>Days</th>
       <th>Lectures (pdf)</th>
       <th>Core pipeline (notebooks)</th>
-      <th>Annex (notebooks)</th>
     </tr>
     <tr>
      <td><strong>Day 1</strong></td>
      <td>
        <ul>
-        <li> <a href="./assets/material/Presentations/Day1/01_20180917_Welcome.pdf">Welcome</a></li>
-        <li> <a href="./assets/material//Presentations/Day1/02_20180917_introduction_to_structure_determination.pdf">Intro structure determination</a></li>
-        <li> <a href="./assets/material/Presentations/Day1/03_20180917_3D-genomes_overview.pdf">3D Genomes overview</a></li>
-        <li> <a href="./assets/material/Presentations/Day1/04_20180917_Intro_TADbit.pdf">Intro TADbit</a></li>
-        <li> <a href="./assets/material/Presentations/Day1/05_20180917_NGS_for_HiC.pdf">NGS for HiC</a></li>
-        <li> <a href="./assets/material/Presentations/Day1/06_20180917_linux.pdf">Intro UNIX</a></li>
-        <li> <a href="./assets/material/Presentations/Day1/07_20180917_python.pdf">Intro Python</a></li>
+        <li> <a href="./assets/material/Presentations/Day1/20211004_01_Welcome.pdf">Welcome and introduction</a></li>
+        <li> <a href="./assets/material//Presentations/Day1/20211004_02_introduction_to_structure_determination.pdf">Overview on structure determination</a></li>
+        <li> <a href="./assets/material/Presentations/Day1/20211004_03_3D-genomes_overview.pdf">Overview of 3D genomes</a></li>
+        <li> <a href="./assets/material/Presentations/Day1/20211004_04_Live_introduction_to_linux_and_environment.pdf">Live Introduction to Linux and working environment</a></li>
+        <li> <a href="./assets/material/Presentations/Day1/20211004_05_Intro_TADbit.pdf">Introduction to TADbit and data handling for 3C-based experiments</a></li>
+        <li> <a href="./assets/material/Presentations/Day1/20211004_05_From_raw_data_to_Hi-C_contact_matrices.pdf">From raw data to Hi-C contact matrices</a></li>
        </ul>
      </td>
      <td>
-       <ul>
-        <li> <a href="./assets/material/Notebooks/00-Hi-C%20quality%20check.ipynb">Hi-C Quality check</a></li>
-        <li> <a href="./assets/material/Notebooks/01-Mapping.ipynb">Mapping</a></li>
-        <li> <a href="./assets/material/Notebooks/02-Parsing%20mapped%20reads.ipynb">Parsing mapped reads</a></li>
-       </ul>
-    </td>
-    <td>
-       <ul>
-        <li> <a href="./assets/material/Notebooks/A0-Preparing%20your%20computer%20for%20HiC%20data%20analysis.ipynb">Software installation</a></li>
-        <li> <a href="./assets/material/Notebooks/A1-Preparation%20reference%20genome.ipynb">Prepare reference genome</a></li>
-        <li> <a href="./assets/material/Notebooks/A2-Download%20published%20Hi-C%20experiments.ipynb">Download Hi-C experiment</a></li>
-       </ul>
     </td>
    </tr>
     <tr>
      <td><strong>Day 2</strong></td>
      <td>
        <ul>
-        <li> <a href="./assets/material/Presentations/Day2/01_20180918_Summary_of_day_1.pdf">Morning wrap up</a></li>
-        <li> <a href="./assets/material/Presentations/Day2/02_20180918_Chromatin_and_3Cs.pdf">Chromatin and 3Cs</a></li>
-        <li> <a href="./assets/material/Presentations/Day2/03_20180918_TADbit.pdf">TADbit</a></li>
-        <li> <a href="./assets/material/Presentations/Day2/04_20180918_Applications(II)_Caulobacter.pdf">Applications (I): Caulobacter</a></li>
+        <li> <a href="./assets/material/Presentations/Day2/20211005_01_Chromatin_and_3Cs.pdf">Chromatin structure and 3C data</a></li>
+        <li> <a href="./assets/material/Presentations/Day2/20211005_02_TADbit.pdf">Integrative modeling applied to chromatin with TADbit</a></li>
+        <li> <a href="./assets/material/Presentations/Day2/20211005_03_Hi-C_contact_matrices_filtering.pdf">Hi-C contact matrices: filtering</a></li>
+        <li> <a href="./assets/material/Presentations/Day2/20211005_04_Applications(I)_TAD_hormone.pdf">Biological applications I: TAD response to hormone treatment)</a></li>
+        <li> <a href="./assets/material/Presentations/Day2/20211005_05_Applications(II)_SOX2Dynamics.pdf">Biological applications II: SOX2 gene activation dynamics)</a></li>
        </ul>
      </td>
      <td>
        <ul>
-        <li> <a href="./assets/material/Notebooks/03-Filtering%20mapped%20reads.ipynb">Filterind reads</a></li>
-        <li> <a href="./assets/material/Notebooks/04-Bin-filtering%20and%20normalization.ipynb">Normalization</a></li>
-       </ul>
-    </td>
-    <td>
-       <ul>
-        <li> <a href="./assets/material/Notebooks/A3-Compare%20and%20merge%20Hi-C%20experiments.ipynb">Compare/merge experiments</a></li>
        </ul>
     </td>
    </tr>
@@ -129,55 +109,16 @@ All the datasets used for this training course is available throughout the docum
      <td><strong>Day 3</strong></td>
      <td>
        <ul>
-        <li> <a href="./assets/material/Presentations/Day3/01_20180919_Summary_of_day_2.pdf">Morning wrap up</a></li>
-        <li> <a href="./assets/material/Presentations/Day3/02_20180919_Applications(II)_TAD_hormone.pdf">Applications(II) TAD hormone</a></li>
-        <li> <a href="./assets/material/Presentations/Day3/02_20180920_Applications(IIIa)_SOX2Dynamics.pdf">Applications (III) SOX2 Dynamics</a></li>
+        <li> <a href="./assets/material/Presentations/Day3/20211006_01_Comparison_between_experiments.pdf">Comparison between experiments</a></li>
+        <li> <a href="./assets/material/Presentations/Day3/20211006_03_Applications(III)_IMGR.pdf">Biological applications: III: IMGR, combining image and Hi-C data for modeling)</a></li>
        </ul>
      </td>
      <td>
-       <ul>
-        <li> <a href="./assets/material/Notebooks/05-Compartments%20and%20TADs.ipynb">Compartments and TADs</a></li>
-       </ul>
+
     </td>
-    <td>
-       <ul>
-        <li> <a href="./assets/material/Notebooks/A4-Align%20and%20compare%20TADs.ipynb">Align and compare TADs</a></li>
-       </ul>
-    </td>
+
    </tr>
-   <tr>
-     <td><strong>Day 4</strong></td>
-     <td>
-      <ul>
-        <li> <a href="./assets/material/Presentations/Day4/01_20180920_Summary_of_day_3.pdf">Morning wrap up</a></li>
-        <li> <a href="./assets/material/Presentations/Day4/03_20180920_Applications(IIIb)_IMGR.pdf">Applications(IV): Super-resolution Imaging and modeling</a></li>
-       </ul>
-     </td>
-     <td>
-       <ul>
-        <li> <a href="./assets/material/Notebooks/06a-Modeling%20-%20parameter%20optimization.ipynb">Parameter optimization</a></li>
-        <li> <a href="./assets/material/Notebooks/06b-Modeling%20-%20model%20optimization.ipynb">Model optimization</a></li>
-       </ul>
-    </td>
-    <td>
-       <ul>
-        <li> <a href="./assets/material/Notebooks/A5-Modeling%20-%20analysis%20of%203D%20models.ipynb">Analysis of 3D models</a></li>
-       </ul>
-    </td>
-   </tr>
-    <tr>
-     <td><strong>Day 5</strong></td>
-     <td>
-      <ul>
-        <li> <a href="./assets/material/Presentations/Day5/01_20180921_Summary_of_day_4.pdf">Morning wrap up</a></li>
-        <li> <a href="./assets/material/Presentations/Day5/02_20180921_MuG.pdf">Multiscale Genomics</a></li>
-        <li> <a href="./assets/material/Presentations/Day5/NucDyn_3DAROC18.pdf">Nucleosome dynamics</a></li>
-        <li> <a href="./assets/material/Presentations/Day5/3DAROC_mcdna_chromdyn_juergenwalther_21_09_18.pdf">MC-DNA and Chromatin Dynamics</a></li>
-       </ul>
-     </td>
-     <td></td>
-     <td></td>
-   </tr>
+
   </tbody>
 </table>
 
