@@ -28,9 +28,6 @@ This project is licensed under CC-BY 4.0 - see the [License.md](License.md) for 
 
 <a href="http://www.igc.gulbenkian.pt/"><img src="./assets/readme_img/Logo_IGC_2014.png" alt="Instituto Gulbenkian de Ciência" width="250px"></a>
 
-#### Co-organizer
-
-<a href="https://inc-cost.eu"><img src="./assets/readme_img/inc-logo-grey-rgb.png" alt="International Nucleome Consortium COST-INC" width="250px"></a>
 
 #### Contributors
 
