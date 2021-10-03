@@ -125,9 +125,9 @@ All the datasets used for this training course is available throughout the docum
 
 ---
 
-### [Learning Objectives and Course Pre-requisites](pages/objectives_prerequisites.md)
+### [Learning Objectives and Course Pre-requisites](pages/objectives_prerequisites.md) (link)
 
-### [Instructors](pages/instructors.md)
+### [Instructors](pages/instructors.md) (link)
 
 ---
 
