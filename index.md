@@ -88,7 +88,7 @@ All the datasets used for this training course is available throughout the docum
      </td>
      <td>
 <ul>
-        <li> <a href="./assets/material/Notebooks/Day1/01-Inspect_Hi-C_input_data.ipynb>01-Inspect_Hi-C_input_data.ipynb</a></li>
+        <li> <a href="./assets/material/Notebooks/Day1/01-Inspect_Hi-C_input_data.ipynb">01-Inspect_Hi-C_input_data.ipynb</a></li>
 		<li> <a href="./assets/material/Notebooks/Day1/02-Generate_mapper_index.ipynb">02-Generate_mapper_index.ipynb</a></li>
 		<li> <a href="./assets/material/Notebooks/Day1/03-Hi-C_Quality_Check.ipynb">03-Hi-C_Quality_Check.ipynb</a></li>
 		<li> <a href="./assets/material/Notebooks/Day1/04-Mapping.ipynb">04-Mapping.ipynb</a></li>
