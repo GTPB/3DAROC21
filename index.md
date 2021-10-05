@@ -108,8 +108,11 @@ All the datasets used for this training course is available throughout the docum
        </ul>
      </td>
      <td>
-       <ul>
-       </ul>
+     <ul>
+             <li> <a href="./assets/material/Notebooks/Day2/06-Intersecting_and_Filtering_mapped_reads.ipynb">06-Intersecting_and_Filtering_mapped_reads.ipynb</a></li>
+         <li> <a href="./assets/material/Notebooks/Day2/07-Bin_filtering_and_normalization.ipynb">07-Bin_filtering_and_normalization.ipynb</a></li>
+         <li> <a href="./assets/material/Notebooks/Day2/08a-Compartments_detection.ipynb">08a-Compartments_detection.ipynb</a></li>
+     </ul>
     </td>
    </tr>
    <tr>
