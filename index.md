@@ -124,7 +124,15 @@ All the datasets used for this training course is available throughout the docum
        </ul>
      </td>
      <td>
-
+     <ul>
+             <li> <a href="./assets/material/Notebooks/Day3/08b-TADs_detection.ipynb">08b-TADs_detection.ipynb</a></li>
+             	<li> <a href="./assets/material/Notebooks/Day3/09-Compare_and_merge_Hi-C_experiments.ipynb">09-Compare_and_merge_Hi-C_experiments.ipynb</a></li>
+     		<li> <a href="./assets/material/Notebooks/Day3/09b_CHESS_Compare_chromatin_contact_data.ipynb">09b_CHESS_Compare_chromatin_contact_data.ipynb</a></li>
+     		<li> <a href="./assets/material/Notebooks/Day3/10-Modeling_parameters_optimization.ipynb">10-Modeling_parameters_optimization.ipynb</a></li>
+     		<li> <a href="./assets/material/Notebooks/Day3/11-3D_Models_production_and_analysis.ipynb">11-3D_Models_production_and_analysis.ipynb</a></li>
+        <li> <a href="./assets/material/Notebooks/Day3/12-3D_Modeling_molecular_dynamics_TADdyn.ipynb">12-3D_Modeling_molecular_dynamics_TADdyn.ipynb</a></li>
+        <li> <a href="./assets/material/Notebooks/Day3/Higlass.ipynb">Higlass.ipynb</a></li>
+     </ul>
     </td>
 
    </tr>
